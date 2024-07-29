@@ -16,6 +16,7 @@
 		8ED489942C576F1200227B18 /* BasicApp_WithoutStoryboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED489932C576F1200227B18 /* BasicApp_WithoutStoryboardTests.swift */; };
 		8ED4899E2C576F1200227B18 /* BasicApp_WithoutStoryboardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED4899D2C576F1200227B18 /* BasicApp_WithoutStoryboardUITests.swift */; };
 		8ED489A02C576F1200227B18 /* BasicApp_WithoutStoryboardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED4899F2C576F1200227B18 /* BasicApp_WithoutStoryboardUITestsLaunchTests.swift */; };
+		8ED489AD2C5788AD00227B18 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8ED489AC2C5788AD00227B18 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8ED489992C576F1200227B18 /* BasicApp_WithoutStoryboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BasicApp_WithoutStoryboardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ED4899D2C576F1200227B18 /* BasicApp_WithoutStoryboardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicApp_WithoutStoryboardUITests.swift; sourceTree = "<group>"; };
 		8ED4899F2C576F1200227B18 /* BasicApp_WithoutStoryboardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicApp_WithoutStoryboardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8ED489AC2C5788AD00227B18 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				8ED489852C576F1200227B18 /* Assets.xcassets */,
 				8ED489872C576F1200227B18 /* LaunchScreen.storyboard */,
 				8ED4898A2C576F1200227B18 /* Info.plist */,
+				8ED489AC2C5788AD00227B18 /* README.md */,
 			);
 			path = BasicApp_WithoutStoryboard;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			files = (
 				8ED489862C576F1200227B18 /* Assets.xcassets in Resources */,
 				8ED489892C576F1200227B18 /* Base in Resources */,
+				8ED489AD2C5788AD00227B18 /* README.md in Resources */,
 				8ED489842C576F1100227B18 /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
