@@ -81,6 +81,7 @@
 		8ED489702C576F1100227B18 = {
 			isa = PBXGroup;
 			children = (
+				8ED489AC2C5788AD00227B18 /* README.md */,
 				8ED4897B2C576F1100227B18 /* BasicApp_WithoutStoryboard */,
 				8ED489922C576F1200227B18 /* BasicApp_WithoutStoryboardTests */,
 				8ED4899C2C576F1200227B18 /* BasicApp_WithoutStoryboardUITests */,
@@ -108,7 +109,6 @@
 				8ED489852C576F1200227B18 /* Assets.xcassets */,
 				8ED489872C576F1200227B18 /* LaunchScreen.storyboard */,
 				8ED4898A2C576F1200227B18 /* Info.plist */,
-				8ED489AC2C5788AD00227B18 /* README.md */,
 			);
 			path = BasicApp_WithoutStoryboard;
 			sourceTree = "<group>";
